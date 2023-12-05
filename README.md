@@ -20,9 +20,9 @@ I am a seasoned Data Scientist and Analyst with a rich skill set encompassing SQ
 ✅ Leadership: Proven track record of assuming leadership roles and driving successful project outcomes.
 ✅ Project Management: Skilled in managing projects, ensuring timely delivery, and meeting objectives.
 ✅ Data Visualizations: Expertise in crafting visually appealing and informative dashboards
-Data Presentation and Report Writing: Strong ability to present complex findings concisely.
-Technical Expertise:
+✅ Data Presentation and Report Writing: Strong ability to present complex findings concisely.
 
+Technical Expertise:
 ✅ SQL: Proficient in querying, data manipulation, and database management.
 ✅ Python: Skilled in utilizing Python for data analysis, automation, and machine learning tasks.
 ✅ R: Experienced in R programming for statistical analysis and data visualization.
