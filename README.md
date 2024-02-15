@@ -3,7 +3,7 @@
 <!--
 **olayinkags/Olayinkags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Title: Experienced Data Scientist and Analyst | Expert in SQL, Python, PowerBI, and Tableau | Deep Learning and Machine Learning Enthusiast
+### Title: Experienced Data Scientist and Analyst | Expert in SQL, Python, PowerBI, and Tableau | Deep Learning and Machine Learning Enthusiast
 
 Greetings,
 
