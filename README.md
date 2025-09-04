@@ -1,6 +1,6 @@
-# 👋 Hi there, I’m Annette  
+# 👋 Hi there, I’m Olayinka Agbetanmije 
 
-I’m passionate about everything **Data** and thrive in roles as a **Data Scientist, Machine Learning Engineer, and Analyst**.  
+I’m passionate about everything **Data** and thrive in roles as a **Data Scientist, Machine Learning Engineer, and Data Analyst**.  
 I love solving real-world problems with a **data-driven approach**, spotting patterns, and turning them into **meaningful insights**.  
 
 ---
@@ -28,13 +28,8 @@ I’m open to working on exciting projects or data roles (**remote or hybrid**) 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
 ### 🌐 Deployment & Tools  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![SSIS](https://img.shields.io/badge/SSIS-217346?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![SSIS](https://img.shields.io/badge/SSIS-217346?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 
 ### 🖥️ Others  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
